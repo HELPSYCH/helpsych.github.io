@@ -1,1 +1,0 @@
-# helpsych.github.io
