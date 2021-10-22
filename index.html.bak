@@ -43,10 +43,9 @@
     <header class="mainBanner" role="banner">
       <div class="container">
         <div class="row">
-          <div class="col-md-7 col-sm-7">
-            <!-- Logo -->
-            <figure> <a href="./index.html"> <img class="img-logo" src="images/logo.jpg"
-                  alt=""> </a> </figure>
+          <div class="col-md-7 col-sm-7"> <a href="./index.html"><img
+                class="img-logo" src="images/logo3.png" alt=""></a><!-- Logo -->
+            <figure> <a href="./index.html"> </a> </figure>
             <!-- /.text-center -->
             <!-- Title -->
             <h1>HELSYCH AYUDA EMOCIONAL EN LINEA</h1>
@@ -218,6 +217,5 @@
     <script src="js/jquery-2.1.0.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/customScripts.js"></script>
-    
   </body>
 </html>
