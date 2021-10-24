@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:13:33	55/55	---MCZ	200	added ('OK')	text/plain	etag:W/%222e-5bf48cfde842d%22	https://www.techbone.es/robots.txt		(from )
+01:13:33	204626/204626	---MCZ	200	added ('OK')	text/html	date:Sun,%2024%20Oct%202021%2006:13:38%20GMT	https://www.techbone.es/xiaomi/manual-del-usuario/permitir-aplicaciones-de-fuente-desconocida/	/home/k/web/www.techbone.es/xiaomi/manual-del-usuario/permitir-aplicaciones-de-fuente-desconocida/index.html	(from )

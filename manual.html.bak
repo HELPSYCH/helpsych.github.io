@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="icon" type="image/png" href="assets/img/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Awesome Landing Page by Creative Tim</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+      name="viewport">
+    <meta name="viewport" content="width=device-width">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/landing-page.css" rel="stylesheet">
+    <!--     Fonts and icons     -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+      rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300"
+      rel="stylesheet" type="text/css">
+    <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet">
+  </head>
+  <body class="landing-page landing-page1">
+    <nav class="navbar navbar-transparent navbar-top" role="navigation">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header"> <button id="menu-toggle" type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target="#example"> <span class="sr-only">Toggle
+              navigation</span> <span class="icon-bar bar1"></span> <span class="icon-bar bar2"></span>
+            <span class="icon-bar bar3"></span> </button> <a href="#">
+            <div class="logo-container">
+              <div class="logo"> <img src="assets/img/new_logo.png" alt="Creative Tim Logo">
+              </div>
+              <div class="brand"> AYUDA EMOCIONAL</div>
+            </div>
+          </a> </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="example">
+          <ul class="nav navbar-nav navbar-right">
+            <li> <a href="#"> <i class="fa fa-facebook-square"></i> Like </a>
+            </li>
+            <li> <a href="#"> <i class="fa fa-twitter"></i> Tweet </a> </li>
+            <li> <a href="#"> <i class="fa fa-pinterest"></i> Pin </a> </li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse --> </div>
+    </nav>
+    <div class="wrapper">
+      <div class="parallax filter-gradient blue" data-color="blue">
+        <div class="parallax-background"> <img class="parallax-background-image"
+            src="assets/img/template/bg3.jpg"> </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 hidden-xs">
+              <div class="parallax-image"> <img class="phone" src="assets/img/template/iphone3-1.png"
+                  style="margin-top: 20px"> </div>
+            </div>
+            <div class="col-md-6 col-md-offset-1">
+              <div class="description">
+                <h2>MANUAL DE INSTALACIÓN DE LA APLICACION HELPSYCH</h2>
+                <br>
+                <h5>A continuación se mostrara un manual de instalacion para que
+                  se te pueda facilitar la instalacion y puedas obtener la
+                  aplicacion sin complicaciones</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section section-gray section-clients">
+        <h2>¿Qué es un APK?</h2>
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 62.5%;"> <img class="sf-lazy centro_sinmarco"
+                data-sf-srcset="https://i.blogs.es/4b0a8c/android/450_1000.jpg 450w, https://i.blogs.es/4b0a8c/android/650_1200.jpg 681w, https://i.blogs.es/4b0a8c/android/1024_2000.jpg 1024w, https://i.blogs.es/4b0a8c/android/1366_2000.jpg 1366w"
+                data-sf-src="https://i.blogs.es/4b0a8c/android/450_1000.jpg" alt="Android"><noscript><img
+alt="Android" src="https://i.blogs.es/4b0a8c/android/450_1000.jpg"></noscript> </div>
+          </div>
+        </div>
+        <p>Si decidimos prescindir de la tienda de aplicaciones de Google o de
+          alguna otra compatible como puede ser la de Amazon o la <a href="https://www.xatakandroid.com/aplicaciones-android/galaxy-apps-ahora-galaxy-store-puedes-descargar-renovada-tienda-tu-samsung-galaxy">Galaxy
+            Store</a> en caso de Samsung, <strong>nos vamos a encontrar por
+            regla general con archivos .apk</strong>. Disponibles en sitios web
+          como es el caso de <a href="https://www.apkmirror.com/">APK Mirror</a>
+          (una alternativa a las web oficiales con apps originales), APKPure o
+          por tiendas como Amazon Appstore, Uptodown... es habitual que podamos
+          hacernos con aplicaciones también por medio de foros o a través de
+          programas P2P.</p>
+        <!-- BREAK 3 -->
+        <div class="desvio-container">
+          <div class="desvio">
+            <div class="desvio-figure js-desvio-figure"> <a href="https://www.xatakandroid.com/aplicaciones-android/hay-vida-mas-alla-de-google-play-apps-para-android-que-no-encontraras-en-la-tienda-oficial-y-donde-descargarlas">
+                <img src="https://i.blogs.es/f1d811/google-play-mas-alla/375_142.jpg"
+                  alt="Hay vida más allá de Google Play: apps para Android que no encontrarás en la tienda oficial y dónde descargarlas">
+              </a> </div>
+            <div class="desvio-summary">
+              <div class="desvio-taxonomy js-desvio-taxonomy"> <a href="https://www.xatakandroid.com/aplicaciones-android/hay-vida-mas-alla-de-google-play-apps-para-android-que-no-encontraras-en-la-tienda-oficial-y-donde-descargarlas"
+                  class="desvio-taxonomy-anchor">En Xataka Android</a> </div>
+              <a href="https://www.xatakandroid.com/aplicaciones-android/hay-vida-mas-alla-de-google-play-apps-para-android-que-no-encontraras-en-la-tienda-oficial-y-donde-descargarlas"
+                class="desvio-title js-desvio-title">Hay vida más allá de Google
+                Play: apps para Android que no encontrarás en la tienda oficial
+                y dónde descargarlas</a> </div>
+          </div>
+        </div>
+        <p>Un archivo con la extensión APK (acrónimo de Android Application
+          Package) es la forma en la que está empaquetada una aplicación de
+          Android que contiene, como instalable que es, <strong>todos los
+            archivos necesarios para instalar una aplicación en nuestro
+            dispositivo basado en Android</strong>.</p>
+        <!-- BREAK 4 -->
+        <p>Y una vez tenemos la aplicación con la extensión .apk (el sinónimo de
+          exe en Windows o .dmg en macOS), toca instalarla en nuestro
+          dispositivo, bien sea por medio de una descarga desde el mismo o con
+          una memoria externa. </p>
+        <!-- BREAK 5 -->
+        <h2> Cómo instalar aplicaciones en APK</h2>
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="caption-img  ">
+              <div class="base-wrapper-image" style="padding-top: 97.855227882038%;">
+                <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/e80177/casilla-de-verificacion-copia/450_1000.jpg 450w, https://i.blogs.es/e80177/casilla-de-verificacion-copia/650_1200.jpg 681w, https://i.blogs.es/e80177/casilla-de-verificacion-copia/1024_2000.jpg 1024w, https://i.blogs.es/e80177/casilla-de-verificacion-copia/1366_2000.jpg 1366w"
+                  data-sf-src="https://i.blogs.es/e80177/casilla-de-verificacion-copia/450_1000.jpg"
+                  alt="Casilla De Verificacion Copia"><noscript><img alt="Casilla De Verificacion Copia"
+src="https://i.blogs.es/e80177/casilla-de-verificacion-copia/450_1000.jpg"></noscript>
+              </div>
+              <span> Tendremos que dar permiso aplicación por aplicación </span>
+            </div>
+          </div>
+        </div>
+        <p>Un proceso que ha cambiado desde que llegó Android 8, ya que <strong>Google
+            añadió más seguridad al proceso de instalación</strong> de
+          aplicaciones externas. En lugar de contar con un único punto en el que
+          dar permiso a todas las apps instaladas en nuestro teléfono para que
+          puedan usar extensiones .apk, ahora ese permiso debemos darlo
+          aplicación por aplicación.</p>
+        <!-- BREAK 6 -->
+        <p>Esto quiere decir que si le hemos dado permiso a Google Chrome (o la
+          aplicación que sea) para instalar archivos .apk, también tendremos que
+          otorgarlo de forma individual al explorador de archivos de turno, a
+          otro navegador y en general a cualquier app que deseamos usar para
+          instalar un .apk en nuestro móvil. En resumen, <strong>tendremos que
+            dar permiso aplicación por aplicación</strong>.</p>
+        <!-- BREAK 7 -->
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 72.176899957063%;">
+              <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/d460f8/apks-copia/450_1000.jpg 450w, https://i.blogs.es/d460f8/apks-copia/650_1200.jpg 681w, https://i.blogs.es/d460f8/apks-copia/1024_2000.jpg 1024w, https://i.blogs.es/d460f8/apks-copia/1366_2000.jpg 1366w"
+                data-sf-src="https://i.blogs.es/d460f8/apks-copia/450_1000.jpg"
+                alt="Apks Copia"><noscript><img alt="Apks Copia" src="https://i.blogs.es/d460f8/apks-copia/450_1000.jpg"></noscript>
+            </div>
+          </div>
+        </div>
+        <p>Ahora cada aplicación requiere de un permiso específico y si ahora
+          vamos a instalar una apk desde una aplicación el sistema nos avisará
+          que no podemos instalarla a no ser que le otorguemos permiso, para lo
+          cual nos indica como hacerlo por medio de los ajustes en la
+          aplicación. <strong>De una forma mucho más visual, el proceso queda
+            tal que así</strong>. </p>
+        <!-- BREAK 8 -->
+        <ul>
+          <li>Cuando descargamos un archivo .apk, será la aplicación desde la
+            que lo hagamos la que <strong>nos advertirá que está bloqueado el
+              proceso</strong>. </li>
+          <li>En la zona inferior de la pantalla veremos un aviso indicando que
+            <strong>"no se pueden instalar aplicaciones de orígenes
+              desconocidos"</strong> y nos invita a entrar en los "Ajustes".</li>
+          <li>Dentro de la aplicación buscamos el apartado <strong>"Instalar
+              aplicaciones desconocidas"</strong> y activamos la casilla.</li>
+          <li>Desde ese momento, <strong>esa aplicación cuenta con permisos</strong>
+            a la hora de instalar aplicaciones externas.</li>
+        </ul>
+        <p><strong>Estos pasos habrá que repetirlos con cada una de las
+            aplicaciones</strong> desde las que queramos instalar un APK.
+          Además, puede que llegado el momento nos interese revocar ese permiso.
+          Para llevar a cabo el proceso sólo tenemos que seguir estos pasos.</p>
+        <!-- BREAK 9 -->
+        <ul>
+          <li>Abrir los <strong>"Ajustes"</strong> del sistema o el apartado de
+            <strong>"Configuración"</strong> en tu móvil </li>
+        </ul>
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 111.99494949495%;">
+              <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/9d48ca/uno/450_1000.jpg 450w, https://i.blogs.es/9d48ca/uno/650_1200.jpg 681w, https://i.blogs.es/9d48ca/uno/1024_2000.jpg 1024w, https://i.blogs.es/9d48ca/uno/1366_2000.jpg 1366w"
+                data-sf-src="https://i.blogs.es/9d48ca/uno/450_1000.jpg" alt="Uno"><noscript><img
+alt="Uno" src="https://i.blogs.es/9d48ca/uno/450_1000.jpg"></noscript> </div>
+          </div>
+        </div>
+        <ul>
+          <li>Entre todas las opciones buscamos <strong>"Aplicaciones"</strong>,
+            un campo que en algunas marcas puede variar ligeramente</li>
+          <li>Una vez dentro tocamos en <strong>"Ver todas las aplicaciones"</strong>
+            y seleccionamos aquella cuyos permisos queremos revocar.</li>
+        </ul>
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 110.25481665631%;">
+              <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/dd03a9/dos/450_1000.jpg 450w, https://i.blogs.es/dd03a9/dos/650_1200.jpg 681w, https://i.blogs.es/dd03a9/dos/1024_2000.jpg 1024w, https://i.blogs.es/dd03a9/dos/1366_2000.jpg 1366w"
+                data-sf-src="https://i.blogs.es/dd03a9/dos/450_1000.jpg" alt="Dos"><noscript><img
+alt="Dos" src="https://i.blogs.es/dd03a9/dos/450_1000.jpg"></noscript> </div>
+          </div>
+        </div>
+        <ul>
+          <li>Dentro de la aplicación buscamos el apartado <strong>"Instalar
+              aplicaciones desconocidas"</strong> y desactivamos la casilla.</li>
+        </ul>
+        <h2>Cómo instalar aplicaciones en APK en versiones anteriores a Android
+          8.0 Oreo</h2>
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 56.222547584187%;">
+              <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/58d172/fuentes-desconocidos/450_1000.png 450w, https://i.blogs.es/58d172/fuentes-desconocidos/650_1200.png 681w, https://i.blogs.es/58d172/fuentes-desconocidos/1024_2000.png 1024w, https://i.blogs.es/58d172/fuentes-desconocidos/1366_2000.png 1366w"
+                data-sf-src="https://i.blogs.es/58d172/fuentes-desconocidos/450_1000.png"
+                alt="Fuentes Desconocidos"><noscript><img alt="Fuentes Desconocidos"
+src="https://i.blogs.es/58d172/fuentes-desconocidos/450_1000.png"></noscript> </div>
+          </div>
+        </div>
+        <p><strong>Estos son los pasos en la actualidad</strong>, al menos con
+          las versiones más recientes de Android, pero si en tu caso aún usas
+          una versión anterior a Android 8, el proceso para instalar
+          aplicaciones externas es aún más sencillo.</p>
+        <!-- BREAK 10 -->
+        <div class="article-asset-image article-asset-normal">
+          <div class="asset-content">
+            <div class="base-wrapper-image" style="padding-top: 58.823529411765%;">
+              <img class="sf-lazy centro_sinmarco" data-sf-srcset="https://i.blogs.es/a96f6d/aplicacion/450_1000.jpg 450w, https://i.blogs.es/a96f6d/aplicacion/650_1200.jpg 681w, https://i.blogs.es/a96f6d/aplicacion/1024_2000.jpg 1024w, https://i.blogs.es/a96f6d/aplicacion/1366_2000.jpg 1366w"
+                data-sf-src="https://i.blogs.es/a96f6d/aplicacion/450_1000.jpg"
+                alt="Aplicacion"><noscript><img alt="Aplicacion" src="https://i.blogs.es/a96f6d/aplicacion/450_1000.jpg"></noscript>
+            </div>
+          </div>
+        </div>
+        <p>En este caso sólo tendrás que acudir a los <strong>"Ajustes"</strong>
+          y dentro de los mismos buscar el apartado <strong>"Seguridad"</strong>
+          en el que podrás permitir la instalación de aplicaciones que no sean
+          de Play Store. Sólo tendrás que activar la opción <strong>"Orígenes
+            desconocidos"</strong> y de esa forma, cualquier archivo .apk que
+          quieran instalar tendrá vía libre en tu teléfono.</p>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-gray section-clients"><br>
+      </div>
+      <div class="section section-no-padding">
+        <div class="parallax filter-gradient blue" data-color="blue">
+          <div class="parallax-background"> <img class="parallax-background-image"
+              src="assets/img/template/bg3.jpg"> </div>
+          <div class="info">
+            <h1>HELPSYCH Ayuda Motivacional En Linea!</h1>
+            <p>Descarga la Aplicacion Ahora mismo¡</p>
+            <a href="https://github.com/HELPSYCH/helpsych.github.io/raw/fa0051b1991ab83de7d1e7fc69eca95b60403ef1/app-debug.apk"
+              class="btn btn-neutral btn-lg btn-fill">Descargar</a> </div>
+        </div>
+      </div>
+      <footer class="footer">
+        <div class="container">
+          <nav class="pull-left">
+            <ul>
+              <li> <a href="#"> Home </a> </li>
+              <li> <a href="#"> Company </a> </li>
+              <li> <a href="#"> Portfolio </a> </li>
+              <li> <a href="#"> Blog </a> </li>
+            </ul>
+          </nav>
+          <div class="social-area pull-right"> <a class="btn btn-social btn-facebook btn-simple">
+              <i class="fa fa-facebook-square"></i> </a> <a class="btn btn-social btn-twitter btn-simple">
+              <i class="fa fa-twitter"></i> </a> <a class="btn btn-social btn-pinterest btn-simple">
+              <i class="fa fa-pinterest"></i> </a> </div>
+          <div class="copyright"> © 2021 <a href="#">Helpsych</a>, Ayuda
+            motivacional en linea </div>
+        </div>
+      </footer>
+    </div>
+    <script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
+    <script src="assets/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+    <script src="assets/js/bootstrap.js" type="text/javascript"></script>
+    <script src="assets/js/awesome-landing-page.js" type="text/javascript"></script>
+  </body>
+</html>
